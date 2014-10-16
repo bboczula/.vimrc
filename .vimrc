@@ -38,8 +38,8 @@ nnoremap H ^
 nnoremap L $
 
 " Key Mappings Insert Mode
-inoremap <esc>viwUi
-inoremac>
+inoremap <-u> <esc>viwUi
+inoremap jk <esc>
 inoremap <esc> <nop>
 
 " Custom Key Mapping
