@@ -7,6 +7,7 @@ set smartindent
 set softtabstop=4 shiftwidth=4 expandtab
 set nocp
 colorscheme desert
+helptags ~/.vim/doc
 
 " Set the Leader Key
 let mapleader = ","
